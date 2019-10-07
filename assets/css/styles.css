@@ -165,5 +165,7 @@ h5 {
 .img-fluid {
   height: 250px;
   width: 300px;
+  align-content: center;
+  margin-left:100px;
 
 }
